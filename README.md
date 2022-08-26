@@ -2,11 +2,22 @@
 
 ### Datasets and references
 
-#### RS (State of Brazil)
+#### **RS (State of Brazil)**
 
-- https://www.cevs.rs.gov.br/informativos-epidemiologicos-anteriores
-- https://www.cevs.rs.gov.br/informativos-epidemiologicos-2019
+> Other years
+>
+> - https://www.cevs.rs.gov.br/informativos-epidemiologicos-anteriores
 
-#### Brazil
+> 2019
+>
+> - https://www.cevs.rs.gov.br/informativos-epidemiologicos-2019
 
-- https://opendatasus.saude.gov.br/dataset/srag-2019
+#### **Brazil**
+
+> 2019
+>
+> - https://opendatasus.saude.gov.br/dataset/srag-2019
+
+> Other years
+>
+> - https://opendatasus.saude.gov.br/organization/ministerio-da-saude
